@@ -1,1 +1,1 @@
-# R-training
+# R-projects
